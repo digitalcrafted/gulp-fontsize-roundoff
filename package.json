@@ -1,0 +1,9 @@
+{
+  "name": "gulp-fontsize-roundoff",
+  "version": "1.0.0",
+  "description": "round off decimal values for px font-sizes in css",
+  "main": "index.js",
+  "repository": "git@github.com:digitalcrafted/gulp-fontsize-roundoff.git",
+  "author": "Francis <fran@mobnia.com>",
+  "license": "MIT"
+}
