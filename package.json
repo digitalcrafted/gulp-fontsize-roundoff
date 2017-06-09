@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:digitalcrafted/gulp-fontsize-roundoff.git",
   "author": "Francis <fran@mobnia.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "stream-replace": "^1.0.0"
+  }
 }
